@@ -1,0 +1,605 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+
+
+}
+ 
+.navbar{
+    background-color:#0b3e27;
+    margin: 0;
+    width: 100%;
+    padding: 40px;
+    position: fixed;
+    z-index: 10;
+
+
+}
+.fa-solid{
+    margin-top: 13px;
+    margin-left: 40px;
+}
+
+
+.menu{
+     padding-left: 34px;
+      color: white;
+      font-size: 16px;
+       font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+
+}
+.text{
+    padding-left:59px;
+    margin-top: -19px;
+}
+.king{
+    margin-left: 12px;
+    margin-top: -28px;
+    padding-bottom: 69px;
+     margin-bottom: -69px;
+
+}
+
+.top{
+    list-style: none;
+    display: flex;
+    gap: 22px;
+    align-items: center;
+    float: right;
+    margin-bottom: 12px;
+    margin-top: -58px;
+    margin-right: 90px;
+    font-size:23px;
+}
+
+.fa-regular{
+    padding-top: 12px;
+   
+    padding-left: 55px;
+}
+ .second-nevbar{
+     
+    background-color: black;
+    padding: 12px;
+    
+
+ }
+ .t{
+    color: white;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    padding-left: 87px;
+    padding-top: 9%;
+ }
+.t1{
+    text-align: center  ;
+   font-family: RolexFont-S, sans-serif;
+   size: 16.2211px;
+   line-height: 22.7096px;
+   letter-spacing: 2.02764px;
+   padding-top:129px;
+   color: #212121;
+}
+.t2{
+    text-align: center;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 86.6986px;
+    line-height: 89.2136px;
+    
+
+}   
+.tex{
+    position: relative;
+}
+.img1{
+    padding-top: 100px;
+    position: relative;
+     
+}
+.tt1 h3{
+    position:absolute;
+    left: 43%;
+    top: 46%;
+    font-family: RolexFont-S, sans-serif;
+    font-size: 15.3811px;
+     letter-spacing: 2.54764px;
+
+
+}
+.tt2{
+    left: 40%;
+     top: 48%;
+    position: absolute;
+  
+
+
+    font-size: 69.6986px;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+}
+.tt3{
+    padding: auto;
+    margin: auto;
+    text-align: center;
+
+}
+ 
+ 
+ 
+
+.this{
+
+    color: black;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 20.9206px;
+    text-align: start;
+    margin: auto;
+    font-weight: 500;
+    width: 40%;
+    height: auto;
+    text-align: start;
+    position: absolute;
+    padding: auto;
+    left: 33%;
+    top: 54%;
+    line-height: 30.273px;
+}
+.its-edge{
+
+    color:#212121;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 18.9206px;
+    text-align: start;
+    margin: auto;
+    
+     width: 40%;
+     height: auto;
+     position: absolute;
+     left: 33%;
+     top: 66%;
+
+     line-height: 30.692px;
+
+
+
+     
+
+     
+
+
+}
+
+.video{
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+ 
+     
+}
+.img2{
+    position: relative;
+    padding-top: 8%;
+
+}
+.chronergy{
+    position:absolute;
+    left: 44%;
+    top: 52%;
+    font-family: RolexFont-S, sans-serif;
+    font-size: 15.3811px;
+     letter-spacing: 2.54764px;
+
+
+}
+.nthng{
+    font-size: 77.0211px;
+    line-height: 73.17px;
+    left: 39%;
+    top: 54%;
+    position:absolute;
+
+
+}
+.write1{
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+
+    font-size: 19.1825px;
+    text-align: start;
+    line-height: 30.692px;
+    color: #212121;
+
+    width: 40%;
+    height: auto;
+    position: absolute;
+
+    left: 34%;
+    top: 65%;   
+    font-weight: 500;
+
+    
+}
+.write2{
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 19.1825px;
+    line-height: 30.692px;
+    text-align: start;
+    color: #212121;
+
+    left: 34%;
+    top: 75%;
+    width: 40%;
+    height: auto;
+    position: absolute;
+
+
+}
+
+.img3{
+
+    position: relative;
+    width: 100;
+    height: 100%;
+    padding-top: 8%;
+
+}
+
+.para{
+    font-family: RolexFont-S, sans-serif;
+    font-size: 14.7739px;
+    
+    text-align: center;
+    letter-spacing: 10.59673px;
+    color: #212121;
+    position: absolute;
+    left: 43%;
+    top: 45%;
+}
+.para1{
+    font-family: RolexFont-S, sans-serif;
+    font-size: 14.7739px;
+    
+    text-align: center;
+    letter-spacing: 10.59673px;
+    color: #212121;
+    position: absolute;
+    left: 48%;
+    top: 45%;
+
+}
+.shok{
+
+
+    position: absolute;
+    left: 37%;
+    top: 48%;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 85.0211px;
+    line-height: 73.17px;
+    text-align: center;
+
+
+
+
+}   
+.paraflex{
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 19.1825px;
+    line-height: 30.692px;
+    text-align: start;
+
+
+
+    font-weight: 500;
+    color: #212121;
+    position: absolute;
+
+    width: 35%;
+    left: 35%;
+    top: 56%;
+}
+
+.wonder{
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    line-height: 30.692px;
+    text-align: start;
+
+    color: #212121;
+    width: 35%;
+    left: 35%;
+    top: 74%;
+    position: absolute;
+
+
+
+}
+.clock{
+    position: absolute;
+    left: 28%;
+    top: 48%;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 85.0211px;
+    line-height: 73.17px;
+    text-align: center;
+
+
+}
+.numbers{
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 19.1825px;
+    line-height: 30.692px;
+    text-align: start;
+
+
+
+    font-weight: 500;
+    color: #212121;
+    position: absolute;
+
+    width: 35%;
+    left: 35%;
+    top: 60%;
+}
+
+.exel{
+    position: absolute;
+    left: 32%;
+    top: 48%;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 85.0211px;
+    line-height: 73.17px;
+    text-align: center;
+
+
+}
+.case h4{
+    font-size: 14px;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    line-height: 20px;
+    letter-spacing: 9px;
+}
+.case{
+     padding-top: 45px;
+      text-align: center;
+       width: 170px;
+       height: 158px;
+        margin: auto ;
+}
+.case h1{
+    font-size: 58px;
+    color: green;
+    line-height: 89px;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+}
+.more{
+    height: 36px;
+    width: 96%;
+    border-radius: 22px;
+    font-size: 15px;
+    font-weight: 600;
+    background: rgb(11, 69, 11);
+    color: white;
+    border: none;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+}
+.black{
+    width: 100%;
+    height: auto;
+    background-color:#212121;
+}
+.hood{
+    width: 100%;
+    
+    text-align: center;
+    margin-top: 39px;
+   
+    color: white;
+    padding-top: 52px;
+
+}
+
+.hood h3{
+    font-size: 19px;
+    font-weight: 500;
+    font-family:RolexFont-S, sans-serif ;
+
+}
+.hood h1{
+    font-size: 400%;
+    font-weight: 800;
+    padding-top: 12px;
+    font-family:"Helvetica Now Text", Helvetica, Arial, sans-serif;
+
+}
+.top1{
+    padding-top: 104px;
+    max-width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.watch img{
+    width: 100%;
+}
+.watchs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding-bottom: 10%;
+    overflow: auto;
+}
+ 
+
+
+
+.rolex h4{
+    letter-spacing: 3px;
+    padding-top: 10px;
+    font-size: 12px;
+    font-weight: 200;
+    color:white;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+}   
+.rolex h1{
+    color: white;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+     
+    padding-top: 10px;
+}
+
+
+.flex{
+    padding-top: 50px;
+    width: 100%;
+    height: 40%;
+    background-color:white;
+    padding-bottom: 30px;
+}
+ 
+ 
+.hme{
+    list-style: none;
+    gap: 25px;
+    display: flex;
+    margin-left: 100px;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+}
+.share{
+    padding-top: 30px;
+    list-style: none;
+    gap: 45px;
+    display: flex;
+    margin-left: 95px;
+
+
+}
+.shr{
+    
+    font-size: 18px;
+    font-weight: 800;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+}
+.back{
+    background-color:#f8f8f8;
+    height: auto;
+
+}
+.max{
+    margin-top: 40px;
+
+    width: 100%;
+  
+    
+   
+}
+.end{
+    padding-top: 40px;
+    margin: auto;
+    display: grid;
+    width: 90%;
+     
+   
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.rol img{
+
+    padding-left: 2px;
+    margin-left: 58px;
+
+}
+.rol h2{
+    color: rgb(24, 54, 24);
+    font-size: 400;
+    font-weight: 500;
+    margin-left: 40px;
+}
+.long{
+    list-style: none;
+}
+.long h2{
+    margin-bottom: 5px;
+   
+
+
+}
+.long li{
+    margin-top: 3%;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    font-size: 15.1825px;
+    line-height: 27.1767px;
+    letter-spacing: 1px;
+
+}
+ 
+.line{
+    width: 80%;
+    margin: auto;
+    color: #212121;
+    margin-top: 35px;
+}
+.lang{
+    padding-top: 14px;
+    padding-left: 100px;
+    font-size: 19px;
+    list-style: none;
+}
+.eg{
+    padding-top: 15px;
+    position: relative;
+   
+
+}
+.cls{
+    position: relative;
+   
+}
+.dis{
+    position: absolute;
+   
+    font-weight: 600;
+    font-size: 43px;
+    margin-left: 450px;
+    color: white;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    
+    margin-top: -258px;
+}
+.vis{
+    margin-left: 730px;
+    color: white;
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    
+    margin-top: -190px;
+    position: absolute;
+
+}
+.fa-arrow-up{
+
+     
+
+    width: 44px;
+    height: 46px;
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+    right: 0; 
+    margin-right: 12px;
+    background: #000000;
+    font-size: x-large;
+    margin-top: -72px;
+    position: absolute;
+ }
+
+
+    
+
+
+ 
+ 
+
+
+
+   
